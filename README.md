@@ -17,4 +17,4 @@ I'm Paula, Data scientist and Master in Communication. My knowledge and skills i
 
 
 ## Contact me via: 
-[![LinkedIn Badge](https://www.linkedin.com/in/paula-trujillo-sanchez-2114ba16a/)
+[![LinkedIn](https://www.linkedin.com/in/paula-trujillo-sanchez-2114ba16a/)
