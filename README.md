@@ -7,7 +7,7 @@ I'm Paula, Data scientist and Master in Communication. My knowledge and skills i
 
 ## Where to find me: 
 
-![LinkedIn]([https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/paula-trujillo-sanchez-2114ba16a/))
+	![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) (https://www.linkedin.com/in/paula-trujillo-sanchez-2114ba16a/)
 
 
 ## Programming Languages, programs and tools: 
