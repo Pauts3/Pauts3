@@ -5,10 +5,7 @@
 
 I'm Paula, Data scientist and Master in Communication. My knowledge and skills include the use of Python as a programming language, data visualization with libraries such as Seaborn and Matplotlib, the design, development and implementation of marketing and communication campaigns, as well as photographic, audio and video editing.
 
-## Where to find me: 
-
-![LinkedIn](https://img.shields.io/badge/https://www.linkedin.com/in/paula-trujillo-sanchez-2114ba16a/?style=for-the-badge&logo=linkedin&logoColor=white)
-## Programming Languages, programs and tools: 
+## Skills: 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
 
