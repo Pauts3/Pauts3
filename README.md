@@ -3,7 +3,7 @@
 <!--
 **Pauts3/Pauts3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Data scientist and Master in Communication. My knowledge and skills include the use of Python as a programming language, data visualization with libraries such as Seaborn and Matplotlib, the design, development and implementation of marketing and communication campaigns, as well as photographic, audio and video editing.
+Data scientist and Master in Communication. My knowledge and skills include the use of Python as a programming language and SQL for the extraction of information in a relational database, data visualization with libraries such as Seaborn and Matplotlib, the design, development and implementation of marketing and communication campaigns, as well as photographic, audio and video editing.
 
 ## Skills: 
 
